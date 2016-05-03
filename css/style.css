@@ -86,6 +86,23 @@ body {
 		color: #093746;
 }
 
+/* bouton formaulaire */
+
+#formulaire {
+	margin: 3em auto;
+}
+
+.btn-primary {
+  background-color: #1FB8EA;
+  border-color: #1FB8EA;
+}
+
+.btn-primary:hover {
+  background-color: #093746;
+  border-color: #093746;
+}
+
+
 /* navbar */
 
 .navbar-transparent {
