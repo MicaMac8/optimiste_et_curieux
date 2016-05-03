@@ -33,17 +33,22 @@ body {
 
 }
 
-.social{
+#social{
 	padding: 2em 2em 0 0;
 }
-.social a {
+#social a {
 	font-size: 40px;
 	color: #757373;
 }
 
-.social a:hover {
+#social a:hover {
 	color: white;
 	font-size: 42px;
+}
+
+#subscribe {
+	color:#757373;
+	background-color: black;
 }
 
 /* feature */
@@ -86,7 +91,7 @@ body {
 		color: #093746;
 }
 
-/* bouton formaulaire */
+/* bouton formulaire */
 
 #formulaire {
 	margin: 3em auto;
