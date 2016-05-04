@@ -46,11 +46,6 @@ body {
 	font-size: 42px;
 }
 
-#subscribe {
-	color:#757373;
-	background-color: black;
-}
-
 /* feature */
 
 .feature-body {
@@ -91,7 +86,7 @@ body {
 		color: #093746;
 }
 
-/* bouton formulaire */
+/* formulaire */
 
 #formulaire {
 	margin: 3em auto;
@@ -106,6 +101,16 @@ body {
   background-color: #093746;
   border-color: #093746;
 }
+
+#mc_embed_signup {
+	padding: 1em;
+}
+
+#mc_embed_signup h3 {
+	padding: 1em;
+	font-size: 2vmax;
+}
+
 
 
 /* navbar */
